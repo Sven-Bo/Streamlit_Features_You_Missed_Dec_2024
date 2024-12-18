@@ -2,7 +2,7 @@ import streamlit as st
 
 
 st.set_page_config(page_icon="✨", layout="wide")
-st.title("Using icons material icons and emojis")
+st.title("Using material icons and emojis")
 st.subheader("https://fonts.google.com/icons")
 
 with st.echo():
