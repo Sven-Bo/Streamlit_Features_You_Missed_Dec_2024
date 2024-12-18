@@ -6,8 +6,8 @@ In this Streamlit app, I'll show you 5 new features from the latest updates that
 👉 Check out the app with the features here: https://features-you-missed-dec-2024.streamlit.app/
 
 
-## Video Tutorial (Coming soon!)
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+## Video Tutorial
+[![YouTube Video](https://img.youtube.com/vi/vTsYviDhF9M/0.jpg)](https://youtu.be/vTsYviDhF9M)
 
 
 ## 🤝 Connect with Me
