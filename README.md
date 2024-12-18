@@ -3,7 +3,7 @@
 In this Streamlit app, I'll show you 5 new features from the latest updates that you might have missed. Streamlit is always adding awesome stuff and making things better, so there's a lot to explore. Whether you're a Streamlit pro or just getting started, these updates will help you create super interactive and fun apps with ease. Stick around to learn what's new and how you can use these features to make your projects even cooler.
 
 ## Live website
-👉 Check out the final website here: https://features-you-missed-dec-2024.streamlit.app/
+👉 Check out the app with the features here: https://features-you-missed-dec-2024.streamlit.app/
 
 
 ## Video Tutorial (Coming soon!)
